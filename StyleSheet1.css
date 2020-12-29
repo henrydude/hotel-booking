@@ -1,7 +1,7 @@
 ﻿body
 {
    /* background-image:url('img.jpg');*/
-    background-color:burlywood;
+    background-color:white;
     margin-right:25px;
     margin-top:35px;
     background-repeat:no-repeat;
@@ -10,7 +10,7 @@
 a
 {
     text-decoration:none;
-    color:black;
+    color:green;
     text-size-adjust:120%;
     margin-right:90px;
 }
